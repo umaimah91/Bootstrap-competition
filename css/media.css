@@ -1,0 +1,553 @@
+@media screen and (max-width:575px) {
+    /*  
+         ========================================
+                       Navegation
+         ========================================  */
+    .navbar-toggler {
+        /* margin-left: 250px!important; */
+        margin-left: 200px!important;
+    }
+    .navbar-nav {
+        margin-left: 33px!important;
+    }
+    .collapse .btn {
+        margin: 20px 0 0 50px!important;
+        padding: 5px 20px 5px 20px!important;
+    }
+    .navbar-nav .nav-item {
+        padding-bottom: 10px!important;
+    }
+    .nav-link:hover::after {
+        width: 20%!important;
+    }
+    /* 
+                 ===========================================
+                               Header Section
+                 ============================================ */
+    .heade-sec {
+        margin-top: 40px;
+    }
+    .rigth-side .back-g {
+        top: 77px!important;
+    }
+    .rigth-side .man {
+        /* top: 109px!important; */
+        top: 104px!important;
+    }
+    .rigth-side .cloud {
+        /* top: 380px!important; */
+        top: 335px!important;
+    }
+    .waves {
+        left: -240px!important;
+        top: 97%!important;
+    }
+    /* 
+              ===========================================
+                              Main Section
+              ============================================ */
+    .bg {
+        background-image: none!important;
+    }
+    .bicycle {
+        margin: auto;
+        top: 30px!important;
+        left: 20px!important;
+    }
+    .clock {
+        top: 90px!important;
+        left: 50px!important;
+    }
+    .img-kudz {
+        top: 150px!important;
+        left: 40px!important;
+    }
+    .img-kudz .txt-on-img {
+        top: 80px!important;
+        left: 70px!important;
+    }
+    .txt-on-img h1 {
+        font-size: 32px;
+    }
+    .percent {
+        top: 200px!important;
+        left: 30px!important;
+    }
+    .img1 {
+        margin: 260px 0 0 90px!important;
+    }
+    .carousel-inner {
+        margin: 80px 0 40px 40px!important;
+    }
+    .img3 {
+        margin-left: 100px!important;
+        margin-bottom: -200px;
+    }
+    /*  
+        ========================================
+                    Footer
+        ========================================  */
+    .bg-footer {
+        background-image: url(/images/Group\ 113133333.png)!important;
+    }
+    .btns {
+        /* top: 400px!important; */
+        top: 450px!important;
+    }
+    .footer-social {
+        /* top: 450px!important; */
+        top: 500px!important;
+    }
+    .footer-social li {
+        padding: 10px;
+    }
+    .footer-social li img {
+        width: 20px;
+    }
+    .footer-nav {
+        /* top: 490px!important; */
+        top: 550px!important;
+    }
+    .footer-nav .nav-link {
+        font-size: 14px!important;
+    }
+    .side-img {
+        display: none!important;
+    }
+}
+
+@media all and (min-width:576px) and (max-width:767px) {
+    /*  
+      ========================================
+                       Navegation
+     ========================================  */
+    .navbar-toggler {
+        margin-left: 320px!important;
+    }
+    .navbar-nav {
+        margin-left: 33px!important;
+    }
+    .collapse .btn {
+        margin: 20px 0 0 50px!important;
+        padding: 5px 20px 5px 20px!important;
+    }
+    .navbar-nav .nav-item {
+        padding-bottom: 10px!important;
+    }
+    .nav-link:hover::after {
+        width: 20%!important;
+    }
+    /*     ============================================
+                 Header Section
+      ============================================= */
+    .heade-sec {
+        position: relative;
+        height: auto;
+        top: 30px;
+    }
+    .rigth-side {
+        margin-top: -40px;
+        padding-bottom: 30px;
+    }
+    .rigth-side .man {
+        top: 90px!important;
+        left: 130px!important;
+    }
+    .rigth-side .cloud {
+        left: 90px;
+        top: -75px;
+    }
+    .waves {
+        top: 88%!important;
+        left: -240px!important;
+    }
+    /* 
+              ===========================================
+                              Main Section
+              ============================================ */
+    .bg {
+        background-size: 530px!important;
+        background-position: 100% 10%!important;
+    }
+    .bg .row {
+        margin-top: -130px;
+    }
+    .bicycle {
+        top: 130px!important;
+        left: -90px!important;
+    }
+    .clock {
+        top: 90px!important;
+        left: 5px!important;
+    }
+    .percent {
+        top: 100px!important;
+        left: 10px;
+    }
+    .img-kudz {
+        top: 120px!important;
+        left: -70px!important;
+    }
+    .img-kudz .txt-on-img {
+        top: 75px!important;
+        left: 70px!important;
+    }
+    .img-kudz h1 {
+        font-size: 24px;
+    }
+    .img-kudz h6 {
+        font-size: 14px;
+    }
+    .img1 {
+        margin: 240px 0 40px 120px!important;
+    }
+    .img3 {
+        margin: 40px 0 -200px 130px!important;
+    }
+    .carousel-inner {
+        margin-left: 50px!important;
+    }
+    .carousel-control-prev-icon,
+    .carousel-control-next-icon {
+        margin-top: 13px!important;
+    }
+    .carousel-item h6 {
+        font-size: 12px;
+    }
+    /*  
+        ========================================
+                    Footer
+        ========================================  */
+    .bg-footer {
+        background-image: url(/images/Group\ 113133333.png)!important;
+    }
+    .btns {
+        top: 460px!important;
+    }
+    .footer-social {
+        top: 510px!important;
+    }
+    .footer-social li {
+        padding: 10px;
+    }
+    .footer-social li img {
+        width: 20px;
+    }
+    .footer-nav {
+        top: 570px!important;
+    }
+    .footer-nav .nav-link {
+        font-size: 16px!important;
+    }
+    .side-img {
+        display: none;
+    }
+}
+
+@media all and (min-width:768px) and (max-width:830px) {
+    /*  md-screen
+     ===============================================
+                    Navegation
+     ================================================ */
+    .navbar-toggler {
+        margin-left: 500px!important;
+    }
+    .navbar-nav {
+        margin-left: 33px!important;
+    }
+    .collapse .btn {
+        margin: 20px 0 0 50px!important;
+        padding: 5px 25px 5px 25px!important;
+    }
+    .navbar-nav .nav-item {
+        padding-bottom: 10px!important;
+    }
+    .nav-link:hover::after {
+        width: 13%!important;
+    }
+    /*   
+                 =================================================
+                                 Header Section
+                 =================================================  */
+    .left-side h1 {
+        font-size: 24px!important;
+    }
+    .left-side .main-parg {
+        font-size: 16px!important;
+    }
+    .row .rigth-side .back-g {
+        top: 40px!important;
+    }
+    .row .rigth-side .man {
+        top: 62px!important;
+    }
+    .waves {
+        left: -28%!important;
+        top: 87%!important;
+    }
+    /* 
+                  ===========================================
+                                  Main Section
+                  ============================================ */
+    .bg {
+        background-size: 650px!important;
+        background-position: 100% 10%!important;
+    }
+    .bicycle {
+        top: 110px!important;
+        left: -60px!important;
+    }
+    .clock {
+        top: -84px!important;
+        left: 40px!important;
+    }
+    .percent {
+        top: -150px!important;
+        left: 20px!important;
+    }
+    .img-kudz {
+        top: -130px!important;
+        left: -53px!important;
+    }
+    .img-kudz .txt-on-img {
+        top: 80px!important;
+        left: 70px!important;
+    }
+    .txt-on-img h1 {
+        font-size: 32px;
+    }
+    .row3 {
+        margin-top: -90px;
+    }
+    .img1 {
+        right: 30px;
+    }
+    .img3 {
+        left: 30px;
+    }
+    .carousel-item h6 {
+        font-size: 18px!important;
+        padding-top: 20px;
+    }
+    .carousel-inner a {
+        margin: -80px -16px 0 -16px!important;
+    }
+    /*  
+         ===============================================
+                          Footer
+         ================================================ */
+    .btn-primary {
+        width: 120px!important;
+    }
+    .btns {
+        top: 450px!important;
+        left: -25px!important;
+    }
+    .btn-primary span {
+        font-size: 12px;
+    }
+    .footer-social {
+        top: 510px!important;
+        left: -23px!important;
+    }
+    .footer-social li img {
+        width: 20px;
+    }
+    .footer-nav {
+        top: 560px!important;
+        left: -25px!important;
+    }
+    .footer-nav a {
+        font-size: 12px!important;
+        padding-right: 5px!important;
+    }
+    .side-img {
+        top: 315px!important;
+        left: 23px;
+    }
+}
+
+@media all and (min-width: 831px) and (max-width:991px) {
+    /*  md-screen
+     ===============================================
+                    Navegation
+     ================================================ */
+    .navbar-toggler {
+        margin-left: 500px!important;
+    }
+    .navbar-nav {
+        margin-left: 33px!important;
+    }
+    .collapse .btn {
+        margin: 20px 0 0 50px!important;
+        padding: 5px 25px 5px 25px!important;
+    }
+    .navbar-nav .nav-item {
+        padding-bottom: 10px!important;
+    }
+    .nav-link:hover::after {
+        width: 13%!important;
+    }
+    /*   
+             =================================================
+                             Header Section
+             =================================================  */
+    .left-side h1 {
+        font-size: 24px!important;
+    }
+    .left-side .main-parg {
+        font-size: 16px!important;
+    }
+    .row .rigth-side .back-g {
+        top: 40px!important;
+    }
+    .row .rigth-side .man {
+        top: 62px!important;
+    }
+    .waves {
+        left: -28%!important;
+        top: 87%!important;
+    }
+    /* 
+              ===========================================
+                              Main Section
+              ============================================ */
+    .bg {
+        background-size: 650px!important;
+        background-position: 100% 10%!important;
+    }
+    .bicycle {
+        top: 110px!important;
+        left: -60px!important;
+    }
+    .clock {
+        top: -87px!important;
+        left: 35px!important;
+    }
+    .percent {
+        top: -150px!important;
+        left: 20px!important;
+    }
+    .img-kudz {
+        top: -130px!important;
+        left: -53px!important;
+    }
+    .img-kudz .txt-on-img {
+        top: 80px!important;
+        left: 70px!important;
+    }
+    .txt-on-img h1 {
+        font-size: 32px;
+    }
+    .row3 {
+        margin-top: -90px;
+    }
+    .img1 {
+        right: 30px;
+    }
+    .img3 {
+        left: 30px;
+    }
+    .carousel-item h6 {
+        font-size: 18px!important;
+        padding-top: 20px;
+    }
+    .carousel-inner a {
+        margin: -80px -16px 0 -16px!important;
+    }
+    /*  
+     ===============================================
+                      Footer
+     ================================================ */
+    .btns {
+        top: 450px!important;
+        left: -50px!important;
+    }
+    .btn-primary {
+        width: 120px!important;
+    }
+    .btn-primary span {
+        font-size: 13px;
+    }
+    .footer-social {
+        top: 520px!important;
+        left: -50px!important;
+    }
+    .footer-social li img {
+        width: 20px;
+    }
+    .footer-nav {
+        top: 560px!important;
+        left: -55px!important;
+    }
+    .footer-nav a {
+        font-size: 14px!important;
+        padding-right: 5px!important;
+    }
+    .side-img {
+        top: 315px!important;
+        left: 50px;
+    }
+}
+
+@media all and (min-width:992px) and (max-width:1199px) {
+    /*  
+     ===============================================
+                      Navegation
+      ================================================ */
+    .collapse .btn-light {
+        margin-left: 180px!important;
+    }
+    .row .rigth-side .man {
+        top: 91px!important;
+    }
+    .waves {
+        top: 86%!important;
+        left: -28%!important;
+    }
+    /*  
+     ===============================================
+                   Main Section
+      ================================================ */
+    .bg {
+        background-size: 860px!important;
+        background-position: 80% 10%!important;
+    }
+    .bicycle {
+        top: 135px!important;
+        left: -90px!important;
+    }
+    .clock {
+        top: -10px!important;
+    }
+    .percent {
+        top: -70px!important;
+        left: 16px!important;
+    }
+    .img-kudz {
+        right: 100px!important;
+    }
+    .img-kudz .txt-on-img {
+        left: 100px!important;
+        top: 120px!important;
+    }
+    .img1 {
+        left: -40px!important;
+    }
+    /*  
+        ========================================
+                    Footer
+        ========================================  */
+    .btns {
+        top: 450px!important;
+    }
+    .footer-social {
+        top: 520px!important;
+    }
+    .footer-nav {
+        top: 560px!important;
+    }
+    .side-img {
+        top: 261px!important;
+    }
+}
